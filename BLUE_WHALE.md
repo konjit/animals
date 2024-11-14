@@ -1,0 +1,7 @@
+# Blue Whale
+
+![Alt Blue Whale] (https://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/cetaceans/blue-whale)
+
+The **blue whale (Balaenoptera musculus)** is a ![marine mammal](https://en.wikipedia.org/wiki/Marine_mammal) and a baleen whale. Reaching a maximum confirmed length of 29.9 m (98 ft) and weighing up to 199 t (196 long tons; 219 short tons), it is the largest animal known ever to have existed.[a] The blue whale's long and slender body can be of various shades of greyish-blue on its upper surface and somewhat lighter underneath. Four subspecies are recognized: B. m. musculus in the North Atlantic and North Pacific, B. *m. intermedia* in the Southern Ocean, B. m. brevicauda (the pygmy blue whale) in the Indian Ocean and South Pacific Ocean, and B. m. indica in the Northern Indian Ocean. There is a population in the waters off Chile that may constitute a fifth subspecies.
+
+In general, blue whale populations migrate between their summer feeding areas near the poles and their winter breeding grounds near the tropics. There is also evidence of year-round residencies, and partial or age/sex-based migration. Blue whales are filter feeders; their diet consists almost exclusively of krill. They are generally solitary or gather in small groups, and have no well-defined social structure other than mother–calf bonds. Blue whales vocalize, with a fundamental frequency ranging from 8 to 25 Hz; their vocalizations may vary by region, season, behavior, and time of day. Orcas are their only natural predators.
